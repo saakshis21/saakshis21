@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I’m Saakshi Sharma 👋
+Product Manager | Business Analyst | Data Analytics Enthusiast
 
-<!--
-**saakshis21/saakshis21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💼 About Me
+I specialize in turning business challenges into actionable solutions using analytics, data visualization, and cloud-powered tools. I build solutions that optimize workflows, improve engagement, and generate measurable impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+- Product & Business Analysis: Roadmapping, KPI Tracking, Stakeholder Management, Agile/Scrum  
+- Data & Analytics: SQL, Python, Pandas, NumPy, Power BI, Tableau, Predictive Analytics  
+- Cloud Platforms: AWS, Azure, GCP  
+
+---
+
+## 📂 Projects
+*(Coming soon: Product Metrics Dashboard, SQL Analytics, Business Case Studies)*
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/saakshisharma21/
+- Email: saakshisharma2101@gmail.com
